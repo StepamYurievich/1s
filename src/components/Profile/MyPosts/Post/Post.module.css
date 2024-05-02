@@ -1,0 +1,11 @@
+.item{
+
+}
+.item img{
+    width: 50px;
+    border-radius: 30px;
+}
+.item_inner{
+    display: grid;
+    grid-template-columns: 60px 160px;
+}

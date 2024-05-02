@@ -1,0 +1,25 @@
+.arg {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    row-gap: 20px;
+    background-color: #b9b9b9;
+    padding: 5px;
+    border-radius: 5px;
+}
+.arg:active {
+    background-color: #b4b4b4;
+}
+.sitenar{
+    display: grid;
+    grid-row-gap: 10px;
+}
+
+.sitebat_items img {
+    width: 40px;
+    border-radius: 50%;
+}
+.sitebat_items{
+    row-gap: 20px;
+    display: grid;
+    padding-top: 20px;
+}

@@ -1,0 +1,21 @@
+.nav_inner{
+    padding: 20px;
+    line-height: 25px;
+}
+.nav{
+    background-color: #cecece;
+}
+.item a{
+    display: grid;
+    margin: 2px 10px 10px 5px;
+    text-decoration: none;
+    color: black;
+    background-color: #b9b9b9;
+    padding-left: 19px;
+    border-radius: 3px;
+
+}
+.item a:active {
+    background-color: #adadad;
+}
+

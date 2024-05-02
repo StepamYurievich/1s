@@ -1,0 +1,14 @@
+.header{
+    overflow: hidden;
+    max-height: 300px;
+    max-width: 1070px ;
+}
+.header img{
+    object-fit: cover;
+}
+.description{
+    padding: 10px;
+}
+.description img {
+    width: 300px;
+}

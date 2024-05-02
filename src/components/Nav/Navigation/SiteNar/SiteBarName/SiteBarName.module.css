@@ -1,0 +1,19 @@
+.friends{
+
+}
+
+.friends img{
+    width: 40px;
+    border-radius: 50%;
+}
+.friends_inner{
+    display: grid;
+    grid-template-columns: 40px 120px;
+    background-color: #b4b4b4;
+    grid-row-gap: 20px;
+    padding: 5px;
+    border-radius: 4px;
+}
+.friends_inner:active{
+    background-color: #adadad;
+}
